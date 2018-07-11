@@ -1,21 +1,22 @@
 
-## Makine Öğrenimi Algoritmaları ile Model Değerlendirme
+## Makine Ã–ÄŸrenimi AlgoritmalarÄ± ile Model DeÄŸerlendirme
 
-[Diyabet veriseti](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv) üzerinde ön işlemeler ve Makine Öğrenimi Algoritmaları ile Model Değerlendirilmesi yapılan basit bir örnek.
+[Diyabet veriseti](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv) Ã¼zerinde Ã¶n iÅŸlemeler ve Makine Ã–ÄŸrenimi AlgoritmalarÄ± ile Model DeÄŸerlendirilmesi yapÄ±lan basit bir Ã¶rnek.
 
-###### Örneğin içeriği:
-* Datasetin veri(satır) ve öznitelik(sütun) sayılarının yazdırılması
-* Dataset içeriğinin belli bir kısmının listelenmesi
-* Datasetin eğitim ve test verisi olarak ayrıştırılması 
-* Her modelin ACC (Accuracy / Doğruluk) ölçütüne göre başarılarının belirlenmesi
+###### Ã–rneÄŸin iÃ§eriÄŸi:
+* Datasetin veri(satÄ±r) ve Ã¶znitelik(sÃ¼tun) sayÄ±larÄ±nÄ±n yazdÄ±rÄ±lmasÄ±
+* Dataset iÃ§eriÄŸinin belli bir kÄ±smÄ±nÄ±n listelenmesi
+* Datasetin eÄŸitim ve test verisi olarak ayrÄ±ÅŸtÄ±rÄ±lmasÄ± 
+* Her modelin ACC (Accuracy / DoÄŸruluk) Ã¶lÃ§Ã¼tÃ¼ne gÃ¶re baÅŸarÄ±larÄ±nÄ±n belirlenmesi
 * En iyi ACC sonucunu veren modelin belirlenmesi
 
-###### Yararlanılan Kaynaklar
+###### YararlanÄ±lan Kaynaklar
 
-* [Deniz Kılınç - Makine Öğrenimi ve Derin Öğrenme ile Müşteri Kayıp (Churn) Analizi-1](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-ve-derin-%C3%B6%C4%9Frenme-ile-m%C3%BC%C5%9Fteri-kay%C4%B1p-churn-analizi-1-63a4513b8a6f)
+* [Deniz KÄ±lÄ±nÃ§ - Makine Ã–ÄŸrenimi ve Derin Ã–ÄŸrenme ile MÃ¼ÅŸteri KayÄ±p (Churn) Analizi-1](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-ve-derin-%C3%B6%C4%9Frenme-ile-m%C3%BC%C5%9Fteri-kay%C4%B1p-churn-analizi-1-63a4513b8a6f)
 * [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [Save and Load Machine Learning Models in Python with scikit-learn
 ](https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/)
 
 
-###### Örneğe dair ekran alıntısı:
+###### Ã–rneÄŸe dair ekran alÄ±ntÄ±sÄ±:
+![Ekran_Alintisi](https://github.com/FatmaKaya/MakineOgrenmesi_BasitOrnek/blob/master/Ekran%20Alintisi/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
